@@ -1,3 +1,5 @@
+// O(log(n)) time, O(1) space
+
 package main
 
 func binarySearch(xs []int, x int) int {
